@@ -3,19 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SimpleBookCatalog/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|c:\\users\\vu_an\\code\\.net 8 projects\\blazor-crud-efcore-dotnet8\\simplebookcatalog\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|c:\\users\\vu_an\\code\\.net 8 projects\\blazor-crud-efcore-dotnet8\\simplebookcatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|c:\\users\\vu_an\\code\\.net 8 projects\\blazor-crud-efcore-dotnet8\\simplebookcatalog\\components\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|c:\\users\\vu_an\\code\\.net 8 projects\\blazor-crud-efcore-dotnet8\\simplebookcatalog\\components\\bookcard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\bookcard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|c:\\users\\vu_an\\code\\.net 8 projects\\blazor-crud-efcore-dotnet8\\simplebookcatalog\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B460471-2F61-4C39-ACF8-5E37CCE9637A}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|c:\\users\\vu_an\\code\\.net 8 projects\\blazor-crud-efcore-dotnet8\\simplebookcatalog.infrastructure\\migrations\\20240403035850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B460471-2F61-4C39-ACF8-5E37CCE9637A}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|solutionrelative:simplebookcatalog.infrastructure\\migrations\\20240403035850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|c:\\users\\vu_an\\code\\.net 8 projects\\blazor-crud-efcore-dotnet8\\simplebookcatalog\\components\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA5395-22DC-47E1-B284-810945E81388}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,62 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\appsettings.json",
-              "RelativeDocumentMoniker": "SimpleBookCatalog\\appsettings.json",
-              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\appsettings.json",
-              "RelativeToolTip": "SimpleBookCatalog\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-03T08:30:31.151Z",
+              "DocumentIndex": 0,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\Edit.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\Pages\\Edit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T09:18:08.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddNew.razor",
-              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
-              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
-              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
-              "RelativeToolTip": "SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T04:32:48.318Z"
+              "Title": "BookCard.razor.css",
+              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\BookCard.razor.css",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\BookCard.razor.css",
+              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\BookCard.razor.css",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\BookCard.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T09:14:23.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Books [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SimpleBookCatalog/True/SqlTable/dbo.Books.sql",
-              "ToolTip": "dbo.Books [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-03T04:27:38.711Z",
+              "DocumentIndex": 1,
+              "Title": "BookCard.razor",
+              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\BookCard.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\BookCard.razor",
+              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\BookCard.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\BookCard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T09:13:16.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.razor",
+              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\Pages\\List.razor",
+              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\List.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\Pages\\List.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T09:13:10.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240403035850_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog.Infrastructure\\Migrations\\20240403035850_Initial.cs",
-              "RelativeDocumentMoniker": "SimpleBookCatalog.Infrastructure\\Migrations\\20240403035850_Initial.cs",
-              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog.Infrastructure\\Migrations\\20240403035850_Initial.cs",
-              "RelativeToolTip": "SimpleBookCatalog.Infrastructure\\Migrations\\20240403035850_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T03:58:51.165Z"
+              "Title": "AddNew.razor",
+              "DocumentMoniker": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "ToolTip": "C:\\Users\\vu_an\\Code\\.NET 8 Projects\\Blazor-CRUD-EFCore-DotNet8\\SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T04:32:48.318Z",
+              "EditorCaption": ""
             }
           ]
         }

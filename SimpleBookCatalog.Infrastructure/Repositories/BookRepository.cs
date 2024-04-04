@@ -24,5 +24,17 @@ namespace SimpleBookCatalog.Infrastructure.Repositories
             var books = await context.Books.ToListAsync();
             return books;
         }
+
+        public async Task<Book?> GetByIdAsync(int id)
+        {
+            var book = await context.Books.FirstOrDefaultAsync(e => e.Id == id);
+            return book;
+        }
+
+        public async Task UpdateAsync(Book book)
+        {
+            context.Entry(book).State = EntityState.Modified;
+            await context.SaveChangesAsync();
+        }
     }
 }
